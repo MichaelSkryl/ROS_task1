@@ -1,0 +1,2 @@
+glass_bridge:server
+-DCATKIN_DEVEL_PREFIX=/home/michaelsk/workspace_ros1/devel -DCMAKE_INSTALL_PREFIX=/home/michaelsk/workspace_ros1/install -G Unix Makefiles

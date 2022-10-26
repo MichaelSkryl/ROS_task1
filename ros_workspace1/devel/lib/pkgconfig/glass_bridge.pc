@@ -1,8 +1,0 @@
-prefix=/home/michaelsk/workspace_ros1/devel
-
-Name: glass_bridge
-Description: Description of glass_bridge
-Version: 0.0.0
-Cflags: -I/home/michaelsk/workspace_ros1/devel/include
-Libs: -L${prefix}/lib 
-Requires: 

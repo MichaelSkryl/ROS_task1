@@ -7,6 +7,9 @@ int main(int argc, char **argv)
   ros::init(argc, argv, "subscriber");
   GlassBridge first;
   //std::cout << first; //to observe initial string
+  //comments
+  //comm
+  //comm
   ros::spin();
   return 0;
 }
